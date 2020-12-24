@@ -1,5 +1,5 @@
 # HashtagGenerator
-A simple python script to extract Hashtags from long text using Word2Vector model from GenSim
+A simple python script to extract Hashtags from long or short text using Word2Vector model from GenSim
 
 
 <b>Example</b>
