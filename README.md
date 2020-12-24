@@ -1,6 +1,6 @@
 # HashtagGenerator
 A simple python script to extract Hashtags from long or short text using Word2Vector model from GenSim
-
+word2vec.bin is a simple pre-trained model and hashtags change depending upon the model.
 
 <b>Example</b>
 
